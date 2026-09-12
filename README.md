@@ -1,2 +1,4 @@
 # GIT-DEVOPS-PRACTICE
 Practicing DEVOPS in GIT FUNDAMENTALS
+
+Gian Paolo Abuton
